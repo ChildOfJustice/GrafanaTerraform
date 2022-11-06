@@ -1,0 +1,1 @@
+docker run -it -v "$(pwd):/home/terraform" --entrypoint sh hashicorp/terraform
